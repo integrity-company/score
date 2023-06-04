@@ -1,0 +1,9 @@
+{
+  "headerMenu": {
+    "membership": "회원관리",
+    "song": "곡관리",
+    "setting": "권한설정",
+    "login": "로그인",
+    "logout": "로그아웃"
+  }
+}
